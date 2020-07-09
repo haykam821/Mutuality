@@ -1,5 +1,7 @@
 {
 	"text.autoconfig.mutuality.option.protectionMutuality": "Protection Mutuality",
 	"text.autoconfig.mutuality.option.protectionMutuality.@Tooltip": "Allows combining multiple protection enchantments.",
+	"text.autoconfig.mutuality.option.damageMutuality": "Damage Mutuality",
+	"text.autoconfig.mutuality.option.damageMutuality.@Tooltip": "Allows combining multiple damage enchantments.",
 	"text.autoconfig.mutuality.title": "Mutuality Configuration"
 }
