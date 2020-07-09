@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "mutuality",
+	"version": "${version}",
+	"name": "Mutuality",
+	"description": "Allows configuring various mutually exclusive enchantments.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Mutuality#readme",
+		"issues": "https://github.com/haykam821/Mutuality/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.mutuality.Main"
+		],
+		"modmenu": [
+			"io.github.haykam821.mutuality.config.ModMenuCompatibility"
+		]
+	},
+	"mixins": [
+		"mutuality.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/mutuality/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
