@@ -5,6 +5,7 @@
 	"mixins": [
 		"CrossbowEnchantmentMixin",
 		"DamageEnchantmentMixin",
+		"InfinityEnchantmentMixin",
 		"ProtectionEnchantmentMixin",
 		"TridentEnchantmentMixin",
 		"WaterBootsEnchantmentMixin"

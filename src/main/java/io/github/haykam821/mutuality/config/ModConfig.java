@@ -14,6 +14,9 @@ public class ModConfig implements ConfigData {
 	public boolean damageMutuality = true;
 
 	@ConfigEntry.Gui.Tooltip
+	public boolean infinityMutuality = true;
+
+	@ConfigEntry.Gui.Tooltip
 	public boolean protectionMutuality = true;
 
 	@ConfigEntry.Gui.Tooltip
