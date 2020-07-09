@@ -7,6 +7,8 @@
 	"text.autoconfig.mutuality.option.damageMutuality.@Tooltip": "Allows combining multiple damage enchantments.",
 	"text.autoconfig.mutuality.option.infinityMutuality": "Infinity Mutuality",
 	"text.autoconfig.mutuality.option.infinityMutuality.@Tooltip": "Allows combining the Infinity and Mending enchantments.",
+	"text.autoconfig.mutuality.option.luckMutuality": "Luck Mutuality",
+	"text.autoconfig.mutuality.option.luckMutuality.@Tooltip": "Allows combining luck and Silk Touch enchantments.",
 	"text.autoconfig.mutuality.option.tridentMutuality": "Trident Mutuality",
 	"text.autoconfig.mutuality.option.tridentMutuality.@Tooltip": "Allows combining the Riptide enchantment with other trident enchantments.",
 	"text.autoconfig.mutuality.option.waterBootsMutuality": "Water Boots Mutuality",

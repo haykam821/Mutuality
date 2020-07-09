@@ -6,6 +6,7 @@
 		"CrossbowEnchantmentMixin",
 		"DamageEnchantmentMixin",
 		"InfinityEnchantmentMixin",
+		"LuckEnchantmentMixin",
 		"ProtectionEnchantmentMixin",
 		"TridentEnchantmentMixin",
 		"WaterBootsEnchantmentMixin"
