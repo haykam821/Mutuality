@@ -12,4 +12,7 @@ public class ModConfig implements ConfigData {
 
 	@ConfigEntry.Gui.Tooltip
 	public boolean protectionMutuality = true;
+
+	@ConfigEntry.Gui.Tooltip
+	public boolean waterBootsMutuality = true;
 }

@@ -4,7 +4,8 @@
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
 		"DamageEnchantmentMixin",
-		"ProtectionEnchantmentMixin"
+		"ProtectionEnchantmentMixin",
+		"WaterBootsEnchantmentMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
