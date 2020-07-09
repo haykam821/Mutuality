@@ -8,6 +8,9 @@ import me.sargunvohra.mcmods.autoconfig1u.annotation.ConfigEntry;
 @Config.Gui.Background("minecraft:textures/block/obsidian.png")
 public class ModConfig implements ConfigData {
 	@ConfigEntry.Gui.Tooltip
+	public boolean crossbowMutuality = true;
+
+	@ConfigEntry.Gui.Tooltip
 	public boolean damageMutuality = true;
 
 	@ConfigEntry.Gui.Tooltip

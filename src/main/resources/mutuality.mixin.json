@@ -3,6 +3,7 @@
 	"package": "io.github.haykam821.mutuality.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
+		"CrossbowEnchantmentMixin",
 		"DamageEnchantmentMixin",
 		"ProtectionEnchantmentMixin",
 		"WaterBootsEnchantmentMixin"
